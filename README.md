@@ -11,3 +11,8 @@ The app features three screens :
 - The third summarizes key statistics.
 
 One of Fast Buddy's standout features is its red circular indicator, which tracks progress towards autophagy, a state of cellular cleansing that occurs during extended fasting periods. I will be adding features in the future.
+
+
+
+<img src="./img/stats.jpg" width="250"/> <img src="./img/main.jpg" width="250"/> <img src="./img/history.jpg" width="250"/>
+
