@@ -1,5 +1,7 @@
 # Fast Buddy
 
+(In the process of being rewritten using the BLoC design pattern)
+
 Fast Buddy is a minimalist fasting companion app designed to help users track and achieve their fasting goals. Fasting has been shown to offer a range of health benefits, from improved insulin sensitivity to reduced inflammation, making it an increasingly popular wellness practice. [Read about it.](https://acsjournals.onlinelibrary.wiley.com/doi/full/10.3322/caac.21694)
 
 Unlike other fasting apps, which rely on timers that simply count down until the fasting period is over, Fast Buddy employs a stopwatch to offer greater flexibility and precision in your tracking. 
